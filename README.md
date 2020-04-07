@@ -1,5 +1,5 @@
-####Make .phar executable out of php file/directory
-Usage:
+# Make .phar executable out of php file/directory
+##### Usage:
 ```
 $ mkdir test2
 $ echo '<?php echo "lol";' > test2/index.php
